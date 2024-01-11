@@ -1,0 +1,20 @@
+.custom-button {
+    margin: 10px;
+    padding: 10px;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  
+    &:hover {
+      opacity: 0.8;
+    }
+  }
+  
+  .custom-button-blue {
+    background-color: #3498db;
+  }
+  
+  .custom-button-green {
+    background-color: #37d679;
+  }
